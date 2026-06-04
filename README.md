@@ -6,16 +6,16 @@ A lightweight, responsive web application built with **Flask** and powered by th
 
 ---
 
-## 🚀 Features
+# Features
 
-* **💬 Interactive AI Chatbot:** Ask questions and receive real-time, context-aware AI responses.
-* **📧 Smart Email Summarizer:** Condense long emails or articles into bite-sized, 2–3 sentence summaries.
-* **⚡ Modern UI/UX:** Clean, minimal frontend featuring a dark/light responsive layout and dynamic loading indicators for seamless user feedback.
-* **🔒 Secure Configuration:** Safe environment variable management to protect API credentials.
+*  Interactive AI Chatbot:** Ask questions and receive real-time, context-aware AI responses.
+*  Smart Email Summarizer:** Condense long emails or articles into bite-sized, 2–3 sentence summaries.
+*  Modern UI/UX:** Clean, minimal frontend featuring a dark/light responsive layout and dynamic loading indicators for seamless user feedback.
+*  Secure Configuration:** Safe environment variable management to protect API credentials.
 
 ---
 
-## 🛠 Tech Stack
+# Tech Stack
 
 | Backend | Frontend | Environment/API |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ A lightweight, responsive web application built with **Flask** and powered by th
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 ```text
 ├── app.py               # Flask application core logic & API routing
