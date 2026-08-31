@@ -26,7 +26,6 @@ A lightweight, responsive web application built with **Flask** and powered by th
 ---
 
 # Project Structure
-
 ```text
 ├── app.py               # Flask application core logic & API routing
 ├── templates/
